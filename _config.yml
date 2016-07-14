@@ -1,0 +1,14 @@
+layout_spectrum: 0.985505
+typography_spectrum: 0.3719948
+color:
+  saturation: 0.437276
+  lightness: 0.6630824
+  brandStrength: 0.113438
+  brandColors:
+    - '#EF8F06'
+    - '#020100'
+    - '#1DD709'
+    - '#A96605'
+    - '#734503'
+  rhythmicContrast: 0.1899642
+name: Vegas-Consulting
